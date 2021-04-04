@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "beautify.config": "",
+    "[html]": {
+      "editor.defaultFormatter": "HookyQR.beautify",
+      "files.autoSave": "onWindowChange",
+      "editor.minimap.enabled": true,
+      "files.autoSaveDelay": 1000,
+      "editor.rulers": [],
+      "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true
+      },
+      "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    
+    },
+    "auto-close-tag.fullMode": true,
+    "liveServer.settings.useBrowserPreview": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.https": {
+      "enable": true
+    },
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.donotShowInfoMsg": true
+  }
